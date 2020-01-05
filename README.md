@@ -1,1 +1,3 @@
-# stm32--hal-uart-bt
+# stm32-hal-uart-bt
+
+STM32 HAL UART-BLUETOOTH CONNECTION
