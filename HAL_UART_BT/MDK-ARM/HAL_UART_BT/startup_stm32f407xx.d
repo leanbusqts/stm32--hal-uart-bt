@@ -1,0 +1,1 @@
+hal_uart_bt\startup_stm32f407xx.o: startup_stm32f407xx.s
